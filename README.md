@@ -27,8 +27,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 "# Angular-tec-materiales" 
 
-## este es el repositorio principal.
-## cambio para revisar que sucede.
-## cambio para revisar que sucede.
-## cambio para revisar que sucede.
-## cambio para revisar que sucede.
