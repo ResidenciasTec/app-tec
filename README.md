@@ -28,3 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# Angular-tec-materiales" 
 
 ## este es el repositorio principal.
+
+## este soy yo modificando el proyecto y mandando mi cambio al original
